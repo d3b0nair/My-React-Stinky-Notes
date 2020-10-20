@@ -1,6 +1,5 @@
 # :iphone: Friendly Sticky Notes on React
 ## Live Version: @ [GitHub](https://d3b0nair.github.io/sticky-notes-react/) :heart:
-### You can find a source code [here](https://github.com/d3b0nair/sticky-notes-react/tree/main/source).
 
 #### This React project features:
 
