@@ -1,5 +1,5 @@
 # :iphone: Friendly Sticky Notes on React
-## Live Version: @ [GitHub](https://d3b0nair.github.io/sticky-notes-react/) :heart:
+## Live Version: @ [Heroku](https://evening-inlet-33347.herokuapp.com/) :heart:
 
 #### This React project features:
 
